@@ -1,0 +1,123 @@
+{
+    "1": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "2": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "3": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "4": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "5": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "6": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "7": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "8": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "9": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "10": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "11": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "12": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "13": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "14": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "15": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "",
+        "train_values": {},
+        "set_speed": 0
+    },
+    "16": {
+        "max_speed": 100,
+        "min_speed": 33,
+        "train": "6833",
+        "train_values": {
+            "description": "Calcot Grange",
+            "class": "Grange Class",
+            "speed_values": {
+                "full": 4096,
+                "two_thirds": 3000,
+                "one_third": 2000,
+                "stop": 1000
+            }
+        },
+        "set_speed": 0
+    }
+}

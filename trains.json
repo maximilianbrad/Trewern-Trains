@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": "foobar",
+        "class": "Dead Parrot Class",
+        "speed_values": {
+            "full": 4096,
+            "two_thirds": 3000,
+            "one_third": 2000,
+            "stop": 1000
+        }
+    },
+    "6833": {
+        "description": "Calcot Grange",
+        "class": "Grange Class",
+        "speed_values": {
+            "full": 4096,
+            "two_thirds": 3000,
+            "one_third": 2000,
+            "stop": 1000
+        }
+    },
+    "60103": {
+        "description": "Flying Scotsman",
+        "class": "LNER Class A3",
+        "speed_values": {
+            "full": 4096,
+            "two_thirds": 3000,
+            "one_third": 2000,
+            "stop": 1000
+        }
+    }
+}
